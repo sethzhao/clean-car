@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin xmlns:e="http://ns.egret.com/eui">
+    <e:VScrollBar id="verticalScrollBar" width="8" height="100%" right="7" autoVisibility="false">
+        <e:Skin>
+            <e:Image id="thumb" width="8" height="461" source="resource/assets/thumb.png" />
+        </e:Skin>
+    </e:VScrollBar>
+</e:Skin>
